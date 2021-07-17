@@ -5,7 +5,7 @@
 ### Welcome and please enjoy my works!
 
 
-🎓 Trilogoy Advanced Front End Bootcamp
+🎓 Trilogy Advanced Front End Bootcamp
 👔 Small business owner, developer, designer, engineer
 👯 I am always interested in new projects (though I am often overbooking myself too...)
 
